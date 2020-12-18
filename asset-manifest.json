@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Counter_Colors/static/js/main.4d1f9b64.chunk.js",
+    "main.js.map": "/Counter_Colors/static/js/main.4d1f9b64.chunk.js.map",
+    "runtime-main.js": "/Counter_Colors/static/js/runtime-main.ffa472f2.js",
+    "runtime-main.js.map": "/Counter_Colors/static/js/runtime-main.ffa472f2.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Counter_Colors/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.0c443eb7.chunk.js": "/Counter_Colors/static/js/2.0c443eb7.chunk.js",
+    "static/js/2.0c443eb7.chunk.js.map": "/Counter_Colors/static/js/2.0c443eb7.chunk.js.map",
+    "index.html": "/Counter_Colors/index.html",
+    "precache-manifest.32993b87cc328f4ebceb1348b721cf6a.js": "/Counter_Colors/precache-manifest.32993b87cc328f4ebceb1348b721cf6a.js",
+    "service-worker.js": "/Counter_Colors/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Counter_Colors/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/js/2.0c443eb7.chunk.js.LICENSE.txt": "/Counter_Colors/static/js/2.0c443eb7.chunk.js.LICENSE.txt",
+    "static/media/sorting.jpg": "/Counter_Colors/static/media/sorting.511e1280.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffa472f2.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.0c443eb7.chunk.js",
+    "static/js/main.4d1f9b64.chunk.js"
+  ]
+}
